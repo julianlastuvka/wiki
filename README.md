@@ -1,8 +1,8 @@
-# wiki
+# Wiki
  
 a Wikipedia-like online encyclopedia.
 
-### Specification
+# Specification
 
 Complete the implementation of your Wiki encyclopedia. You must fulfill the following requirements:
 
